@@ -58,7 +58,9 @@ To adapt this scraper for other news sites:
   - Pagination limited to front page articles
   - Does not automatically check robots.txt (please verify manually)
 
-# File Structure
+## File Structure
+
+![image](https://github.com/user-attachments/assets/e1cc5427-415e-4b8c-87e2-8cdc23a61a7c)
 
 ## Best Practices
 
