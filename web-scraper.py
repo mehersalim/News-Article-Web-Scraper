@@ -1,6 +1,6 @@
 """
 Developer: Meher Salim
-Filename: web-scraper.py
+File: web-scraper.py
 Project Name: News Article Web Scraper
 Description:
 - This script scrapes news articles from a specified website using requests and BeautifulSoup.
